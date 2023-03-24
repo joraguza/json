@@ -343,7 +343,6 @@
       "num": "012",
       "name": "Butterfree"
     }]
-  }]
 },
 {
     "id": 12,
@@ -1532,7 +1531,7 @@
       "Fire",
 	"Flying",
 	"Psychic",
-	"Poison"
+	"Poison",
 	"Rock"
     ],
     "prev_evolution": [{
@@ -1570,5 +1569,5 @@
       "num": "051",
       "name": "Dugtrio"
     }]
-}]
+   }]
   }
